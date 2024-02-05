@@ -1,4 +1,10 @@
-### Hi there 👋
+## Perfil de usuario
+
+Actualmente soy **estudiante** de **computacion y robotica** en el **IES Jose de Mora**
+
+
+
+
 
 <!--
 **ypercar246/ypercar246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
